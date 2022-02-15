@@ -1,3 +1,3 @@
-module github.com/silas/hellomod
+module github.com/shinvdu/hellomod
 
 go 1.15
